@@ -1,6 +1,10 @@
 #include <stdio.h>
+
 #include <string.h>
+
 #define C_SIZE 50
+
+
 union Address
 {
         char name[C_SIZE];
